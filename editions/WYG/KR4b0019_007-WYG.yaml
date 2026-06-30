@@ -1,0 +1,23 @@
+canonical_identifier: bkk:krp/KR4b0019/WYG/v1/juan/7
+seq: 7
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 徐孝穆集箋注後䟦余讀史至魏晉而下未嘗不廢書三歎也南北朝凡九君皆假唐虞之名行簒竊之舉沿習成風遂成故事故有生生世世不願生帝王家者遂至禪詔出諸袖中朝比肩而暮北面其端肈於新莽而成於曹魏可鄙可痛莫斯為甚善乎石勒之言曰大丈夫當光明磊落無效曹孟徳欺人孤寡以狐媚取天下也顯令箋注徐庾兩家獨不及禪代諸製意在斯乎吾門徐子大文沈深嗜古見徐庾箋注心焉慕之欲補其闕畧蓋以春秋之文美惡同辭陳詩之義勸戒並設且一書之中而箋注家偏有未備俾覽者終茫昧焉有難恝置也於是旁捜博采以附巻末名曰備考而質之余余謂顯令維世之志也足以立㢘隅大文論世之志也足以鏡得失各自有當耳昔梁簡文荅湘東王書云文章未墜必有英絶領袖之者今以徐子之趣向而又能信好將來縱横藝苑馳騁志林豈曰孝穆才情僅㛠宫體而已哉刻既成因書數言以報之笠水陳銳頴長氏識
+  hash: sha256:a2e300aadf7ea857174b941e6809943792207f4f7c3de17236ba619d7385696f
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4b0019_WYG_007-1a, image: WYG1064/WYG1064-0934c.png}
+metadata:
+  title: 徐孝穆集箋注
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-30 11:48:29.495823'
+  juan_title: 後跋
+  source:
+    repository: kanripo
+    path: KR4b0019/KR4b0019_007.txt
+  image_base_urls:
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+hash: sha256:077459a4e2b378973bc37e79d56a4d23742798b0b2aa863657f89318fe5f2273

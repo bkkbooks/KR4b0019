@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR4b0019/SBCK/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 徐孝穆集箋注
+  edition:
+    short: SBCK
+    label: 【四部叢刊】
+  date: '2015-08-30 11:48:29.495823'
+  source:
+    repository: kanripo
+    path: KR4b0019/KR4b0019_000.txt
+  image_base_urls:
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+hash: sha256:d254d4fda9d93d247c7447475ac6d18e2c01d633c2af27d04fd7246cb0f547fc

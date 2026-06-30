@@ -1,0 +1,22 @@
+canonical_identifier: bkk:krp/KR4b0019/SBCK/v1/juan/3
+seq: 3
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 隆
+  hash: sha256:a1fcae5365e287b5f5b4ddb83ea82a26f0fb5ed843279794ef48fe5a545d2382
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4b0019_SBCK_000-5a}
+metadata:
+  title: 徐孝穆集箋注
+  edition:
+    short: SBCK
+    label: 【四部叢刊】
+  date: '2015-08-30 11:48:29.495823'
+  source:
+    repository: kanripo
+    path: KR4b0019/KR4b0019_003.txt
+  image_base_urls:
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+hash: sha256:3e7230fe7204cc50ff70504e5204cf2389d2a697bf92bf25f4005558f85d4c6d

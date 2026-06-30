@@ -1,0 +1,120 @@
+canonical_identifier: bkk:krp/KR4b0019/SBCK/v1
+canonical_location: https://kanripo.org/bkk/KR4b0019/SBCK/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 徐孝穆集箋注
+  date: '2015-08-30 11:48:29.495823'
+  source:
+    repository: kanripo
+    path: KR4b0019
+  image_base_urls:
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+  edition:
+    short: SBCK
+    label: 【四部叢刊】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR4b0019_000-SBCK.yaml, hash: 'sha256:d254d4fda9d93d247c7447475ac6d18e2c01d633c2af27d04fd7246cb0f547fc'}
+  - {seq: 1, filename: KR4b0019_001-SBCK.yaml, hash: 'sha256:6680ed81269c20fbfe81de513c3a3ab295506386391f005aa8a861d53b061441'}
+  - {seq: 2, filename: KR4b0019_002-SBCK.yaml, hash: 'sha256:6a2db8c65cd8753a5a6776218125f9414e69cb5cc5af6945071506cf8c2ee866'}
+  - {seq: 3, filename: KR4b0019_003-SBCK.yaml, hash: 'sha256:3e7230fe7204cc50ff70504e5204cf2389d2a697bf92bf25f4005558f85d4c6d'}
+  - {seq: 4, filename: KR4b0019_004-SBCK.yaml, hash: 'sha256:fcf3adfc5ed710485fa40185644ed76d32211693ee8c34a423e9dcd3b7385715'}
+  - {seq: 5, filename: KR4b0019_005-SBCK.yaml, hash: 'sha256:7b35afca1b8067ba91ff22313f0a787793424d4322a9b5b47ca0fb681da07f4c'}
+  - {seq: 6, filename: KR4b0019_006-SBCK.yaml, hash: 'sha256:e95a25bd7011c0452edca2cec30afdfb87297751dfb667a07c2997dd542c21f7'}
+  - {seq: 7, filename: KR4b0019_007-SBCK.yaml, hash: 'sha256:465a7df017d343a1b59914ea0ad9c42ea4e2952369524ad0f5ec28a577fc9715'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR4b0019_000-SBCK.markers.yaml, hash: 'sha256:6400b7fb7d3a0dced0540af58f65298d2b50175dd9419703926a3604e64cb496'}
+  - {seq: 1, role: markers, filename: assets/KR4b0019_001-SBCK.markers.yaml, hash: 'sha256:ae1415de8b16640d959f2c71808498d7926bd0d5cb047333ad358d8aadf7ef63'}
+  - {seq: 2, role: markers, filename: assets/KR4b0019_002-SBCK.markers.yaml, hash: 'sha256:47d6df280aa424f5497c0f5883b345be23a4b3f6c32daa79b3fe89db4172f4fa'}
+  - {seq: 3, role: markers, filename: assets/KR4b0019_003-SBCK.markers.yaml, hash: 'sha256:7fe8bf5ec655e4825edebc4a96275076c4c2cf1818e3ae894cc71923746270c2'}
+  - {seq: 4, role: markers, filename: assets/KR4b0019_004-SBCK.markers.yaml, hash: 'sha256:820c450ff54c5b2712c65962f77a5e56739bef6bb8b50a624fc35f693d378a2e'}
+  - {seq: 5, role: markers, filename: assets/KR4b0019_005-SBCK.markers.yaml, hash: 'sha256:dfa5348461ebe6edaebef4af6b8034ce3a5d27a970bdcf74014a1215a4fc3493'}
+  - {seq: 6, role: markers, filename: assets/KR4b0019_006-SBCK.markers.yaml, hash: 'sha256:231a5bcfe7299e9db84ba66091319caafc136ac75828f30087472c32caa7ba11'}
+  - {seq: 7, role: markers, filename: assets/KR4b0019_007-SBCK.markers.yaml, hash: 'sha256:5d4625b84fd97892ad60bcde5b406bcbc21d20f69b7ea74d02701c1ed09d3a7e'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 0
+  label: juan 000
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 0
+  label: juan 001
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 1
+  label: juan 002
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR4b0019_SBCK_000-5a
+    span:
+    - body
+    - 0
+    - 1
+  label: juan 003
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 1
+  label: juan 004
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 1
+  label: juan 005
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 1
+  label: juan 006
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR4b0019_SBCK_000-5a
+    span:
+    - body
+    - 0
+    - 39155
+  label: juan 007
+  type: section
+  level: 1
+hash: sha256:83bd4854fac541ca103571b2dfae07162d244537561063a3879eb35be00c4b66
