@@ -48,6 +48,7 @@ markers:
   - {type: page-break, offset: 7, content: '', id: KR4b0019_SBCK_001-5b}
   - {type: page-break, offset: 7, content: '', id: KR4b0019_SBCK_001-6a}
   - {type: page-break, offset: 7, content: '', id: KR4b0019_SBCK_001-6b}
+  - {type: substitution, offset: 7, original: 䟦, replacement: 跋, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19443}}
   - {type: 'kr:newline', offset: 8, content: '
 
       ', id: KR4b0019_krp_007-bkkkrnewl2}
@@ -96,6 +97,7 @@ markers:
   - {type: page-break, offset: 35, content: '', id: KR4b0019_SBCK_002-11a}
   - {type: page-break, offset: 35, content: '', id: KR4b0019_SBCK_002-11b}
   - {type: page-break, offset: 35, content: '', id: KR4b0019_SBCK_002-12a}
+  - {type: substitution, offset: 37, original: 簒, replacement: 篡, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20803}}
   - {type: variant, offset: 39, length: 0, content: '', SBCK: 守藩維常懼盈滿豈圖蒼昊不弔國歩艱難皇嗣元良藐在崤渭二臣奉迎川塗靡從六傳還朝淹畱未日令國圖無主家業事隆上奉父母}
   - {type: page-break, offset: 39, content: '', id: KR4b0019_SBCK_002-12b}
   - {type: variant, offset: 40, length: 4, content: 舉沿習成, SBCK: 嚴規下逼羣公之廷諍遂以庸質升纂帝基􅍟揚大化彌增號懼今宜式遵舊則奉上皇后尊號爲皇太后御慈訓宮一依前典若中流靜晏皇嗣歸來輒當解􅌧於箕山之陽歸老于瑯琊之國復子明辟還承寶圖若問與夷無媿園寢始興王詔漢祖天倫伯叔追封晉元世系瑯琊傳國仰惟二后重光率由前典朕昔因藩次􅀩繼本宗分在要荒乆離寒燠天嘉紹祚别命皇枝歸自崤函禮隔登獻每至霜庭可履矚垣寢而懷悲}
@@ -114,6 +116,7 @@ markers:
       ', id: KR4b0019_krp_007-bkkkrnewl5}
   - {type: line-break, offset: 71, content: '', id: KR4b0019_WYG_007-1a05}
   - {type: variant, offset: 76, length: 35, content: 面其端肈於新莽而成於曹魏可鄙可痛莫斯為甚善乎石勒之言曰大丈夫當光明磊落, SBCK: 蔡}
+  - {type: substitution, offset: 79, original: 肈, replacement: 肇, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19587}}
   - {type: 'kr:newline', offset: 92, content: '
 
       ', id: KR4b0019_krp_007-bkkkrnewl6}
@@ -123,6 +126,7 @@ markers:
 
       ', id: KR4b0019_krp_007-bkkkrnewl7}
   - {type: line-break, offset: 113, content: '', id: KR4b0019_WYG_007-1a07}
+  - {type: substitution, offset: 115, original: 徳, replacement: 德, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20773}}
   - {type: variant, offset: 126, length: 0, content: '', SBCK: 裹糧坐甲固敵是求方欲大討於秦崤敦修於與睦叶謀上相爰納朕躬思所以敬答忠􅈴用申朝典可進爵爲長城縣公徐孝穆集卷二終徐孝穆集卷三陳郯徐陵著明東海屠隆評表讓五兵尚書表臣聞仲尼大聖猶云書不盡言士衡高才嘗稱文不逮意臣比哀痾日積思緒茫然頻託朋游爲裁章表雖復陳琳健筆未盡愚懷孫惠詞人頗加煩飾所以高天􅃡邈弗降昭回瞻拜絲綸更增憂憊臣雖不敏弱􅃣登朝伊言承華豫遊多士晚逢興運爰濫寵私爾時四郊多壘七雄分爭國家制度日不暇給趙宮論受命之宜隨邑奏升壇之禮而叅聞秘計弗解單于之兵飛箭馳書未動聊城之將不期枚乗老􅅱忽降時恩馮唐暮年見申明主擢宰京邑朝坐棘林遂致洛陽無雨非比長安多盜其宜屏錮用寘嚴科猶處名僚乆爲叨竊但著書天禄雖如劉向朔望登朝轉同王隱於其朽劣尚可從容司會文昌邈然非據勸進元帝表封唐有聖還承帝嚳之家居代維賢終纂高皇之祚無爲稱於華舄至治表於垂衣而撥亂反正非聞前古至如金行重作源出東筦炎運猶昌枝分南頓豈得掩顯姓於軒轅非才子於顓頊莫不因時多難俱繼神宗者}
   - {type: page-break, offset: 126, content: '', id: KR4b0019_SBCK_003-1a}
   - {type: page-break, offset: 126, content: '', id: KR4b0019_SBCK_003-1b}
@@ -150,6 +154,7 @@ markers:
   - {type: variant, offset: 167, length: 1, content: 其, SBCK: 誓}
   - {type: variant, offset: 168, length: 1, content: 闕, SBCK: 湯}
   - {type: variant, offset: 169, length: 1, content: 畧, SBCK: 征}
+  - {type: substitution, offset: 169, original: 畧, replacement: 略, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17299}}
   - {type: variant, offset: 170, length: 1, content: 蓋, SBCK: 咸}
   - {type: variant, offset: 171, length: 1, content: 以, SBCK: 用}
   - {type: variant, offset: 172, length: 1, content: 春, SBCK: 干}
@@ -169,6 +174,7 @@ markers:
   - {type: variant, offset: 215, length: 0, content: '', SBCK: 卿雲似葢晨映姚鄕甘露如珠朝垂原寢芝房感德咸出銅池蓂莢伺辰無勞銀箭重以東漸玄菟西踰白狼高柳生風扶桑衘日莫不編名屬國歸貢鴻臚荒服來賔遐邇同慶其文昭武穆跗蕚也如彼天平地成功業也如此乆應}
   - {type: page-break, offset: 215, content: '', id: KR4b0019_SBCK_003-3b}
   - {type: variant, offset: 216, length: 3, content: 捜博采, SBCK: 求掌故詢詔天官斟酌繁昌經營高邑宗王啟霸非勞五德之侯淸蹕無虞何事長安之邸揚龍旂}
+  - {type: substitution, offset: 216, original: 捜, replacement: 搜, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20696}}
   - {type: 'kr:newline', offset: 218, content: '
 
       ', id: KR4b0019_krp_007-bkkkrnewl13}
@@ -197,6 +203,7 @@ markers:
   - {type: page-break, offset: 221, content: '', id: KR4b0019_SBCK_004-5b}
   - {type: page-break, offset: 221, content: '', id: KR4b0019_SBCK_004-6a}
   - {type: page-break, offset: 221, content: '', id: KR4b0019_SBCK_004-6b}
+  - {type: substitution, offset: 221, original: 巻, replacement: 卷, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20024}}
   - {type: variant, offset: 224, length: 0, content: '', SBCK: 流􅀷知於􅎦篾吾雖不敏常慕前修不圖明庻有懷翻其以此量物昔魏氏將亾羣凶挺爭諸賢戮力想得其朋爲葛榮之黨邪爲邢果之徒邪如}
   - {type: variant, offset: 225, length: 2, content: 備考, SBCK: 不然斯所未喻四也假使吾徒還爲凶黨矦景生於趙代家自幽怛居則台司行爲連率山川形􅀔軍國􅃔章不勞請箸爲籌便當屈指能􅄸景以逋逃小醜羊豖同群身寓江臯家􅅏河朔春春井井如鬼如神其不然乎抑又君之所知也且夫宮闈袐事竝若雲霄英俊訏謨寧非帷幄或陽驚以定策或焚藁}
   - {type: page-break, offset: 225, content: '', id: KR4b0019_SBCK_004-7a}
@@ -230,6 +237,7 @@ markers:
   - {type: page-break, offset: 243, content: '', id: KR4b0019_SBCK_005-2a}
   - {type: page-break, offset: 243, content: '', id: KR4b0019_SBCK_005-2b}
   - {type: page-break, offset: 243, content: '', id: KR4b0019_SBCK_005-3a}
+  - {type: substitution, offset: 243, original: 㢘, replacement: 廉, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17635}}
   - {type: variant, offset: 246, length: 2, content: 文論, SBCK: 梁膺龍圖而受命御鳳邸以承天軒頊比於諸王湯武方於兒戲三光有乂四海無波靈貺咸臻表裏禔福非日非月蒼生仰其照臨如雲如􅀨天下􅀩其恩䕃而屯亨有數剝極爲灾梟獍豺狼肆逞兇逆後主誕資上聖光啓中興大剪􅄷讐方平宗社雖復瀟湘舉斧庸蜀彎􅃓凡厥兇徒誰不殲撲豈圖天未悔禍喪亂薦臻羌虜無厭乗此多難虔劉我南國蕩覆我西京奉問驚號肝膽崩潰雖復金行版蕩火政淪亾綠林靑犢之羣黑山白馬之卒八王故事曾未混淆九州春秋誰云禍亂昔隆周從播皆慿晉鄭之功强漢阽危終假虚牟之力今者武皇之子無復一人藐是孤孫還同三叛等子頺而爲暴同劉芳而入􅀜乞命諸戎勢何支乆孤宗室之長爰自布衣皇運之初彌承天德何則據鞍輟哭雖紹霸圖獨居掩涕終討家怨孤二三昆季方可戴天被此恩慈如何酧答所以徐彭之役不希輕軀哀荷之誠乆聞朝聽况復􅀖家不造至此橫流宗社無依何所逃責因以提戈􅀒劒臥泣行號言念荊巫志雪讎恥大齊觀書有洛輯瑞榮河功格蒼旻德滿天地慈孝之道通於百靈仁信之風覃於萬國是以日月所照舟車所通候海水以來賔瞻蒼雲以奉貢昔自軒農炎昊曾無宣國之規虞夏商周非有伐戎之略豈知華夷仰德遠近同心穀價無堯湯之憂糧儲同水火之賤精兵利器勢勇雷霆天馬龍媒量比山谷斯固開闢已來未之有也至於親隣之道夙契逾􅀷無改曩懷尊感彌篤以爲興亡繼絕事昞前經推擇庸虚命守宗祀方欲仰慿神武淸我寇讎㫖喻難違諸懷更恧明公誕膺時運光賛本朝勒瑞姜璜書名何􅂦故以通期管樂宜契風雲戮不}
   - {type: page-break, offset: 246, content: '', id: KR4b0019_SBCK_005-3b}
   - {type: page-break, offset: 246, content: '', id: KR4b0019_SBCK_005-4a}
@@ -384,6 +392,7 @@ markers:
   - {type: variant, offset: 266, length: 3, content: 荅湘東, SBCK: 皇帝旣而黑山巨盗慿陵上國白水彊胡虔劉中夏公傾其產業募其驍雄思報皇儲累殲鯨寇屬幽風有􅁚代邸方降搜荆楚之英才資班輸之妙畧百樓忽起登雲霄而俯臨萬弩俱張隨雷霆而並震揚兵於九天之上决勝於千里之中殪彼羣兇皆無旋踵陳寶應至懷反叛客引周廸資其食力更事窺窬公奉詔崇朝飮氷將力前茅後勁歩驟奔馳仍向甌閩殄其巢窟若夫鳴虵之洞深谷隱於蒼天飛猿之嶺喬樹參於雲日宜越艇而登嶠􅀩燕犀而渉江威武紛紜震山風海於是咸俘僞師悉據高墉爰泊滄溟莫不懲乂旣而齊人無信將謀郢藩鬬艦戈船窺江淹漢公纔聞羽檄遽禀師期馳襲荆鄖應時燒蕩方欲宣威隴汧大討梁蕐屬上將之韜光逢中台之掩曜大建三年薨於軍幕爾乃靑烏拍墓白鶺標墳林有逃車樹同蕐蓋前旍熊軾後乗龍轜介士發三河之民哀鐃同駟馬之曲長安傳坐恩禮盛於西京襄陽墮淚悲慟喧於南峴裴使君墓誌銘君五音之候兼其方牧八陣之圖窮其巧變用能戰必勝攻必取督稱無難兵號解煩朝飛火箭夜聳雲梯燧􅁚從奔聮狼巳合於是厥顏不撓極咍諸戎龎德高聲肆言羣逆胡夷總至猶持子路之纓鋒刅相交終荷溫生之節毎以輕財篻籜義重嵩衡割宅字貧友之􅀌開門延故人之殯篤好朋遊居常滿席毎至鮮雲藹藹披}
   - {type: page-break, offset: 266, content: '', id: KR4b0019_SBCK_010-5a}
   - {type: page-break, offset: 266, content: '', id: KR4b0019_SBCK_010-5b}
+  - {type: substitution, offset: 266, original: 荅, replacement: 答, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19777}}
   - {type: variant, offset: 270, length: 2, content: 書云, SBCK: 安之衣明月團團似班姬之扇日帶花以如笑風鳴條而若歌傍列絲桐􅍟揚}
   - {type: page-break, offset: 270, content: '', id: KR4b0019_SBCK_010-6a}
   - {type: variant, offset: 273, length: 1, content: 章, SBCK: 酒一石之後逾能斷獄五斗之量猶}
@@ -394,6 +403,7 @@ markers:
   - {type: line-break, offset: 281, content: '', id: KR4b0019_WYG_007-1b07}
   - {type: variant, offset: 283, length: 3, content: 者今以, SBCK: 詩致哀周密莊公之誄用愍相遺}
   - {type: variant, offset: 287, length: 21, content: 子之趣向而又能信好將來縱横藝苑馳騁志林豈曰, SBCK: ''}
+  - {type: substitution, offset: 299, original: 横, replacement: 橫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20786}}
   - {type: 'kr:newline', offset: 302, content: '
 
       ', id: KR4b0019_krp_007-bkkkrnewl17}
@@ -407,8 +417,9 @@ markers:
 
       ', id: KR4b0019_krp_007-bkkkrnewl19}
   - {type: line-break, offset: 323, content: '', id: KR4b0019_WYG_007-2a01}
+  - {type: substitution, offset: 332, original: 銳, replacement: 鋭, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20839}}
   - {type: 'kr:newline', offset: 337, content: '
 
       ', id: KR4b0019_krp_007-bkkkrnewl20}
   back: []
-hash: sha256:ef35291b73453503ce65c9f6fe2d9c40f6136aee13d640a49ed9f87e36779417
+hash: sha256:f2ea9acfe55bedb4027cb90b2a98bbf4f7b5b99546786fe65e5d9202abcc2eea
